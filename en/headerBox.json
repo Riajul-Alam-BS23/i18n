@@ -1,9 +1,9 @@
 {
-    "outerCardHeader": "এটি উপরের বাক্সের হেডার",
-    "changeLanguageButton": "ভাষা পরিবর্তন করুন",
-    "innerBoxHeader": "এটি অভ্যন্তরীণ বাক্সের শিরোনাম",
-    "innerBoxDescription": "হ্যালো এটি ভিতরের বাক্সের জন্য বিষয়বস্তু",
-    "innerBoxDate": "আজকের তারিখ হলো: {{date}}",
-    "innerBoxAmount": "পরিমাণ: {{amount | currency:'BDT'}}"
+    "outerCardHeader": "This is header of upper box",
+    "changeLanguageButton": "change language",
+    "innerBoxHeader": "This is header of inner box",
+    "innerBoxDescription": "hello This is the content for inner box",
+    "innerBoxDate": "today's date is: {{date}}",
+    "innerBoxAmount": "amount: {{amount | currency:'USD'}}"
   }
   
