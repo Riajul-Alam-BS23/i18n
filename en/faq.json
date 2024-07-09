@@ -12,6 +12,74 @@
     {
       "QUESTION": "Can I purchase items again?",
       "ANSWER": "Yes, you can repurchase items by visiting your order history."
+    },
+    {
+      "QUESTION": "Do you offer international shipping?",
+      "ANSWER": "Yes, we offer international shipping to most countries."
+    },
+    {
+      "QUESTION": "What payment methods do you accept?",
+      "ANSWER": "We accept Visa, MasterCard, American Express, and PayPal."
+    },
+    {
+      "QUESTION": "How can I contact customer support?",
+      "ANSWER": "You can contact customer support through our website or by calling our toll-free number."
+    },
+    {
+      "QUESTION": "Is there a loyalty program?",
+      "ANSWER": "Yes, we have a loyalty program that offers rewards for frequent shoppers."
+    },
+    {
+      "QUESTION": "Can I cancel my order?",
+      "ANSWER": "Orders can be cancelled within 24 hours of placing the order."
+    },
+    {
+      "QUESTION": "What do I do if my package is damaged?",
+      "ANSWER": "Please contact customer support with photos of the damaged package for assistance."
+    },
+    {
+      "QUESTION": "Do you offer gift wrapping?",
+      "ANSWER": "Yes, we offer gift wrapping for an additional fee during checkout."
+    },
+    {
+      "QUESTION": "How do I change my shipping address?",
+      "ANSWER": "You can change your shipping address before your order has been shipped by contacting customer support."
+    },
+    {
+      "QUESTION": "What is your store location?",
+      "ANSWER": "Our main store is located at [address], with additional locations in [city/region]."
+    },
+    {
+      "QUESTION": "How can I check the status of my refund?",
+      "ANSWER": "You can check the status of your refund by logging into your account and viewing your order history."
+    },
+    {
+      "QUESTION": "Can I return an item bought online to a physical store?",
+      "ANSWER": "Yes, online purchases can be returned to any of our physical store locations."
+    },
+    {
+      "QUESTION": "Do you offer expedited shipping?",
+      "ANSWER": "Yes, we offer expedited shipping options at checkout for faster delivery."
+    },
+    {
+      "QUESTION": "Are there any items that cannot be returned?",
+      "ANSWER": "Some items such as perishable goods or personalized items may not be eligible for return."
+    },
+    {
+      "QUESTION": "What should I do if I receive the wrong item?",
+      "ANSWER": "Please contact customer support immediately with details of the incorrect item received."
+    },
+    {
+      "QUESTION": "How do I unsubscribe from your mailing list?",
+      "ANSWER": "You can unsubscribe from our mailing list by clicking the 'unsubscribe' link at the bottom of any promotional email."
+    },
+    {
+      "QUESTION": "Is there a minimum order amount for free shipping?",
+      "ANSWER": "Yes, orders over a certain amount qualify for free standard shipping. Please check our website for current thresholds."
+    },
+    {
+      "QUESTION": "Do you offer installation services for your products?",
+      "ANSWER": "Installation services are available for select products. Please contact customer support for more information."
     }
   ]
 }
