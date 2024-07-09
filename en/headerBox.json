@@ -1,0 +1,9 @@
+{
+    "outerCardHeader": "This is header of upper box",
+    "changeLanguageButton": "change language",
+    "innerBoxHeader": "This is header of inner box",
+    "innerBoxDescription": "hello This is the content for inner box",
+    "innerBoxDate": "today's date is: {{date}}",
+    "innerBoxAmount": "amount: {{amount | currency:'USD'}}"
+  }
+  
