@@ -1,0 +1,8 @@
+{
+    "outerCardHeader": "Ceci est l'en-tête de la boîte supérieure",
+    "changeLanguageButton": "changer de langue",
+    "innerBoxHeader": "Ceci est l'en-tête de la boîte intérieure",
+    "innerBoxDescription": "bonjour, ceci est le contenu de la boîte intérieure",
+    "innerBoxDate": "la date d'aujourd'hui est : {{date}}",
+    "innerBoxAmount": "montant : {{amount | currency:'USD'}}"
+}

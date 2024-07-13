@@ -1,0 +1,85 @@
+{
+  "TITLE": "Questions Fréquemment Posées",
+  "FAQS": [
+    {
+      "QUESTION": "Quelle est la politique de retour?",
+      "ANSWER": "Notre politique de retour est de 30 jours avec un reçu."
+    },
+    {
+      "QUESTION": "Comment puis-je suivre ma commande?",
+      "ANSWER": "Vous pouvez suivre votre commande en utilisant le numéro de suivi fourni dans votre email de confirmation."
+    },
+    {
+      "QUESTION": "Puis-je acheter des articles à nouveau?",
+      "ANSWER": "Oui, vous pouvez racheter des articles en consultant votre historique de commandes."
+    },
+    {
+      "QUESTION": "Proposez-vous une livraison internationale?",
+      "ANSWER": "Oui, nous proposons la livraison internationale dans la plupart des pays."
+    },
+    {
+      "QUESTION": "Quels modes de paiement acceptez-vous?",
+      "ANSWER": "Nous acceptons Visa, MasterCard, American Express et PayPal."
+    },
+    {
+      "QUESTION": "Comment puis-je contacter le service client?",
+      "ANSWER": "Vous pouvez contacter le service client via notre site web ou en appelant notre numéro gratuit."
+    },
+    {
+      "QUESTION": "Y a-t-il un programme de fidélité?",
+      "ANSWER": "Oui, nous avons un programme de fidélité qui offre des récompenses pour les acheteurs fréquents."
+    },
+    {
+      "QUESTION": "Puis-je annuler ma commande?",
+      "ANSWER": "Les commandes peuvent être annulées dans les 24 heures suivant la passation de la commande."
+    },
+    {
+      "QUESTION": "Que faire si mon colis est endommagé?",
+      "ANSWER": "Veuillez contacter le service client avec des photos du colis endommagé pour obtenir de l'aide."
+    },
+    {
+      "QUESTION": "Proposez-vous un emballage cadeau?",
+      "ANSWER": "Oui, nous proposons un emballage cadeau moyennant des frais supplémentaires lors du paiement."
+    },
+    {
+      "QUESTION": "Comment puis-je changer mon adresse de livraison?",
+      "ANSWER": "Vous pouvez changer votre adresse de livraison avant l'expédition de votre commande en contactant le service client."
+    },
+    {
+      "QUESTION": "Où se trouve votre magasin?",
+      "ANSWER": "Notre magasin principal est situé à [adresse], avec des emplacements supplémentaires à [ville/région]."
+    },
+    {
+      "QUESTION": "Comment puis-je vérifier le statut de mon remboursement?",
+      "ANSWER": "Vous pouvez vérifier le statut de votre remboursement en vous connectant à votre compte et en consultant votre historique de commandes."
+    },
+    {
+      "QUESTION": "Puis-je retourner un article acheté en ligne dans un magasin physique?",
+      "ANSWER": "Oui, les achats en ligne peuvent être retournés dans n'importe quel de nos magasins physiques."
+    },
+    {
+      "QUESTION": "Proposez-vous une livraison accélérée?",
+      "ANSWER": "Oui, nous proposons des options de livraison accélérée lors du paiement pour une livraison plus rapide."
+    },
+    {
+      "QUESTION": "Y a-t-il des articles qui ne peuvent pas être retournés?",
+      "ANSWER": "Certains articles comme les produits périssables ou personnalisés peuvent ne pas être éligibles au retour."
+    },
+    {
+      "QUESTION": "Que dois-je faire si je reçois le mauvais article?",
+      "ANSWER": "Veuillez contacter immédiatement le service client avec les détails de l'article incorrect reçu."
+    },
+    {
+      "QUESTION": "Comment puis-je me désabonner de votre liste de diffusion?",
+      "ANSWER": "Vous pouvez vous désabonner de notre liste de diffusion en cliquant sur le lien 'se désabonner' en bas de tout email promotionnel."
+    },
+    {
+      "QUESTION": "Y a-t-il un montant minimum de commande pour la livraison gratuite?",
+      "ANSWER": "Oui, les commandes au-dessus d'un certain montant bénéficient de la livraison standard gratuite. Veuillez consulter notre site web pour les seuils actuels."
+    },
+    {
+      "QUESTION": "Proposez-vous des services d'installation pour vos produits?",
+      "ANSWER": "Des services d'installation sont disponibles pour certains produits. Veuillez contacter le service client pour plus d'informations."
+    }
+  ]
+}
