@@ -1,0 +1,8 @@
+{
+  "outerCardHeader": "Dies ist die Kopfzeile des oberen Kastens",
+  "changeLanguageButton": "Sprache ändern",
+  "innerBoxHeader": "Dies ist die Kopfzeile des inneren Kastens",
+  "innerBoxDescription": "Hallo, dies ist der Inhalt des inneren Kastens",
+  "innerBoxDate": "Heutiges Datum ist: {{date}}",
+  "innerBoxAmount": "Betrag: {{amount | currency:'USD'}}"
+}
