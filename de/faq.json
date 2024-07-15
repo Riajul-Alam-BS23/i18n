@@ -1,0 +1,85 @@
+{
+  "TITLE": "Häufig gestellte Fragen",
+  "FAQS": [
+    {
+      "QUESTION": "Wie ist die Rückgabebedingung?",
+      "ANSWER": "Unsere Rückgabebedingung beträgt 30 Tage mit Quittung."
+    },
+    {
+      "QUESTION": "Wie kann ich meine Bestellung verfolgen?",
+      "ANSWER": "Sie können Ihre Bestellung mit der Sendungsnummer in Ihrer Bestätigungs-E-Mail verfolgen."
+    },
+    {
+      "QUESTION": "Kann ich Artikel erneut kaufen?",
+      "ANSWER": "Ja, Sie können Artikel erneut kaufen, indem Sie Ihre Bestellhistorie besuchen."
+    },
+    {
+      "QUESTION": "Bieten Sie internationalen Versand an?",
+      "ANSWER": "Ja, wir bieten internationalen Versand in die meisten Länder an."
+    },
+    {
+      "QUESTION": "Welche Zahlungsmethoden akzeptieren Sie?",
+      "ANSWER": "Wir akzeptieren Visa, MasterCard, American Express und PayPal."
+    },
+    {
+      "QUESTION": "Wie kann ich den Kundenservice kontaktieren?",
+      "ANSWER": "Sie können den Kundenservice über unsere Website oder unsere gebührenfreie Telefonnummer kontaktieren."
+    },
+    {
+      "QUESTION": "Gibt es ein Treueprogramm?",
+      "ANSWER": "Ja, wir haben ein Treueprogramm, das Belohnungen für häufige Käufer bietet."
+    },
+    {
+      "QUESTION": "Kann ich meine Bestellung stornieren?",
+      "ANSWER": "Bestellungen können innerhalb von 24 Stunden nach der Bestellung storniert werden."
+    },
+    {
+      "QUESTION": "Was soll ich tun, wenn mein Paket beschädigt ist?",
+      "ANSWER": "Bitte kontaktieren Sie den Kundenservice mit Fotos des beschädigten Pakets zur Unterstützung."
+    },
+    {
+      "QUESTION": "Bieten Sie Geschenkverpackungen an?",
+      "ANSWER": "Ja, wir bieten Geschenkverpackungen gegen eine zusätzliche Gebühr während des Checkouts an."
+    },
+    {
+      "QUESTION": "Wie kann ich meine Lieferadresse ändern?",
+      "ANSWER": "Sie können Ihre Lieferadresse ändern, bevor Ihre Bestellung versendet wurde, indem Sie den Kundenservice kontaktieren."
+    },
+    {
+      "QUESTION": "Wo befindet sich Ihr Geschäft?",
+      "ANSWER": "Unser Hauptgeschäft befindet sich unter [Adresse], mit zusätzlichen Standorten in [Stadt/Region]."
+    },
+    {
+      "QUESTION": "Wie kann ich den Status meiner Rückerstattung überprüfen?",
+      "ANSWER": "Sie können den Status Ihrer Rückerstattung überprüfen, indem Sie sich in Ihr Konto einloggen und Ihre Bestellhistorie einsehen."
+    },
+    {
+      "QUESTION": "Kann ich einen online gekauften Artikel in einem physischen Geschäft zurückgeben?",
+      "ANSWER": "Ja, Online-Käufe können in allen unseren physischen Geschäften zurückgegeben werden."
+    },
+    {
+      "QUESTION": "Bieten Sie Expressversand an?",
+      "ANSWER": "Ja, wir bieten beim Checkout Expressversandoptionen für eine schnellere Lieferung an."
+    },
+    {
+      "QUESTION": "Gibt es Artikel, die nicht zurückgegeben werden können?",
+      "ANSWER": "Einige Artikel wie verderbliche Waren oder personalisierte Artikel sind möglicherweise nicht zur Rückgabe berechtigt."
+    },
+    {
+      "QUESTION": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+      "ANSWER": "Bitte kontaktieren Sie sofort den Kundenservice mit Details zum falschen Artikel."
+    },
+    {
+      "QUESTION": "Wie kann ich mich von Ihrer Mailingliste abmelden?",
+      "ANSWER": "Sie können sich von unserer Mailingliste abmelden, indem Sie auf den 'Abmelden'-Link am Ende jeder Werbe-E-Mail klicken."
+    },
+    {
+      "QUESTION": "Gibt es einen Mindestbestellwert für kostenlosen Versand?",
+      "ANSWER": "Ja, Bestellungen über einem bestimmten Betrag qualifizieren sich für kostenlosen Standardversand. Bitte überprüfen Sie unsere Website für aktuelle Schwellenwerte."
+    },
+    {
+      "QUESTION": "Bieten Sie Installationsservices für Ihre Produkte an?",
+      "ANSWER": "Installationsservices sind für ausgewählte Produkte verfügbar. Bitte kontaktieren Sie den Kundenservice für weitere Informationen."
+    }
+  ]
+}
